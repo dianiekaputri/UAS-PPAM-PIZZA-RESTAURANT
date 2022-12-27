@@ -1,7 +1,7 @@
 # UAS-PPAM-PIZZA-RESTAURANT
-Nama  : Diani Eka Putri
-NIM   : 1207050027
-Kelas : Teknik Informatika - B
+* Nama  : Diani Eka Putri
+* NIM   : 1207050027
+* Kelas : Teknik Informatika - B
 
 # Screenshoots
 ![1](https://user-images.githubusercontent.com/75468041/209736418-ae08cec0-279b-466d-8da0-b3db2e321316.png)
